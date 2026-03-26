@@ -6,5 +6,5 @@ fn call_me(num:) {
 }
 
 fn main() {
-    call_me(3);
+    call_me(i32 = 3);
 }
